@@ -34,7 +34,7 @@
 🔹 Implemented **secure authentication & role-based access control**  
 🔹 Designed a **scalable database with complex relationships**  
 
-🔗 [GitHub Repository]((https://github.com/AbdOlwan/SimpleClinic))  
+🔗 [GitHub Repository](https://github.com/AbdOlwan/SimpleClinic)  
 
 ---
 
